@@ -1,0 +1,35 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  background-color: #267226;
+}
+
+h1 {
+ font-size: 100px;
+ text-align: center;
+ font-family: "Tangerine", serif; /* this should be the rest of the output you got from Google fonts */
+ margin: 0;
+ padding: 20px 0;
+ color: #267226;
+ text-shadow: 4px 4px 4px #aaa;
+}
+
+p, li {
+ font-size: 16px;
+ line-height: 2;
+ letter-spacing: 1px;
+}
+
+body {
+ width: 800px;
+ margin: 0 auto;
+ background-color: #FFF;
+ padding: 0 20px 20px 20px;
+ border: 5px solid black;
+}
+
+img {
+ display: block;
+ margin: 0 auto;
+ width: 90%;
+ border: 3px solid black;
+}
